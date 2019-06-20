@@ -1,4 +1,4 @@
-# MyStuff
+# Snake
 
 This is a the game of Snake designed in the C programming language.
 
